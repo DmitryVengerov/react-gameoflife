@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+# trash from node
+package-lock.json
